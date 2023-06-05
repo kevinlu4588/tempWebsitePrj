@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "my project for lesson 1",
   "main": "index.js",
+  "type" : "module",
   "scripts": {
     "start": "nodemon index.js"
   },
@@ -11,8 +12,7 @@
     "url": "git+https://github.com/kevinlu4588/tempWebsitePrj.git"
   },
   "keywords": [
-    "kevin",
-    "lu"
+
   ],
   "author": "kevin lu",
   "license": "MIT",
